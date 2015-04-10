@@ -6,7 +6,7 @@ regions:
 
 ## Accounting, Bookkeeping & Business Services
 
-We provide accounting, bookkeeping financial, and business services for small 
+We provide accounting, bookkeeping, financial, and business services for small 
 businesses in southeast Michigan. As business owner’s know, it’s extremely important 
 to have precise bookkeeping, financial reporting and taxation, budgets, forecasts 
 and an accurate analysis of your financial position. We are here to help you with 
