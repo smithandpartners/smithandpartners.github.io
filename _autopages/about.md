@@ -25,7 +25,7 @@ cat Posey, and a 30 year old Amazon Parrot named Petey.
 
 <section class="region">
 ## Danielle Smith
-### Medical coder
+### Medical Billing & Coding
 <img class="right" src="/images/danielle.jpg" alt="" />
 In July of 2008 I adopted my best buddy, a then-4-year-old Tibetan Terrier. Sprocket was close to perfect 
 from the start; cute, cuddly, enthusiastic about giving kisses and taking walks. He did have one small 
