@@ -1,11 +1,10 @@
 ---
-title: Amy
-tagline: "The value of training"
-image: chewie.jpg
+title: Brad
+tagline: "I was paid for this endorsement"
+image: brad.jpg
 ---
 
-The value of training with the staff of FIDO is constantly reinforced when my 
-dog and I are out in public. Friends and strangers alike constantly compliment 
-Chewie on how well behaved he is. Thank you Tammy and Sarah.
+Based on the sum of money given to me, I wholeheartedly approve 
+of S&P's services!
 
-Regards, Amy
+Brad
